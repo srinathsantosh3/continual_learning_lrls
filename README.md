@@ -6,3 +6,14 @@
 Note: Make sure to change the paths accordingly
 
 Paper Link - https://aclanthology.org/2026.eacl-long.293/
+
+### Citation
+If you find this repository or our paper useful in your research, please cite our work:
+
+@inproceedings{santosh-etal-2026-continual,
+    title = "Continual-learning for Modelling Low-Resource Languages from Large Language Models",
+    author = "Santosh, Srinath and others",
+    booktitle = "Proceedings of the European Chapter of the Association for Computational Linguistics",
+    year = "2026",
+    url = "url?id=33"
+}
